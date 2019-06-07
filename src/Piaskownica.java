@@ -5,7 +5,11 @@ public class Piaskownica {
     public static void main(String[] args) {
         Piaskownica piaskownica = new Piaskownica();
 
-    piaskownica.pd();
+//    piaskownica.pd();
+Scanner in = new Scanner(System.in);
+    for (int i = 0 ; i <3; i++){
+        int linczba = in.nextInt();
+    }
     }
 
     public int [] pd() {
