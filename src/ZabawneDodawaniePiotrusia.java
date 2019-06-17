@@ -39,7 +39,7 @@ public class ZabawneDodawaniePiotrusia {
             linia = Integer.toString(liczba) +" " +Integer.toString(licznik);
             tabWyn[i] = linia;
 
-            m.put(liczba, licznik);
+//            m.put(liczba, licznik);
 
             i++;
         }
@@ -47,7 +47,7 @@ public class ZabawneDodawaniePiotrusia {
             System.out.println(tabWyn[k]);
         }
 
-        System.out.println(m);
+//        System.out.println(m);
 
 //        for (int j = 0; j<tabWyn.length;j++){
 //            for (int h=0; h<2;h++){
